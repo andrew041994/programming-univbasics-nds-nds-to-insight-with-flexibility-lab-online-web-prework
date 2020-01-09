@@ -51,7 +51,7 @@ _it_.
 > use of 3<sup>rd</sup> party information.  A Wiki of Ice and Fire (a site with
 > information about the popular "Song of Ice and Fire" book series) has tons of
 > information that it returns as an NDS. To get information we want out if it,
-> one has to to transform their _given_ data to a form that provides the
+> one has to transform their _given_ data to a form that provides the
 > answers one wants.
 
 This transformation is **not** simple. It will require multiple steps. Instead
@@ -107,7 +107,7 @@ each snack, we create a `Hash` key for that price and then keep a counter for
 the `Hash`'s value.
 
 Let's aim to make that happen by transforming the _given_ NDS. We'll hop back
-to the beginning and get ti this mid-point.
+to the beginning and get to this mid-point.
 
 ### See-...
 
@@ -272,7 +272,7 @@ scratch code in separate files, test expressions in IRB. This lesson is
 definitely one of the most challenging ones you'll see &mdash; but it's also
 the most like the daily work programmers do!
 
-Details about the arguments and the expected return tyhpes are provided in
+Details about the arguments and the expected return types are provided in
 comments in `lib/nds_extract.rb`.
 
 ## Conclusion
